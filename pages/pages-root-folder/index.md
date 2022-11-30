@@ -16,6 +16,7 @@ widget2:
   title: "About us!"
   url: '/info/'
   text: 'Meet Darrel'
+  image: 20220531_091815.jpg
   # video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Packages"
