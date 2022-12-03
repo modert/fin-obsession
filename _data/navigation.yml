@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: Packages
-  url: "/packages/"
+- title: Charters
+  url: "/charters/"
   side: left
 
 - title: Gallery
