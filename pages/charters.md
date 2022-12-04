@@ -7,6 +7,17 @@ permalink: "/charters/"
 header:
     image_fullwidth: "317089755_100659369559939_8847703109666359439_n.jpg"
 ---
+* [Snorkeling, Fishing, & Barbeque][5]
+* [Full-day fishing][2]
+* [Half-day fishing][3]
+* [Snorkeling][4]
+
+
+## Lobstering, Snorkeling, Fishing, & Barbeque
+Dive and bring up your very own lobster, conch, and crabs. Then fish for your 
+
+* Equipment & Safety Devices
+* Snorkel masks and fins
 
 ## Full day fishing
 
@@ -27,10 +38,9 @@ header:
 * Equipment & Safety Devices
 * Snorkel masks and fins
 
-#### Since then, fork it!
-
-[Go Home][2]
-
 
  [1]: {{site.url}}
  [2]: #full-day-fishing
+ [3]: #half-day-fishing
+ [4]: #snorkeling
+ [5]: #snorkeling-fishing--barbeque
