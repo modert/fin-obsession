@@ -7,6 +7,7 @@ permalink: "/charters/"
 header:
     image_fullwidth: "317089755_100659369559939_8847703109666359439_n.jpg"
     caption: Charters
+    caption_url: "/"
 ---
 * [Snorkeling, Fishing, & Barbeque][5]
 * [Full-day fishing][2]
