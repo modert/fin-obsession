@@ -5,7 +5,7 @@ subheadline: "Learn more about our charters!"
 teaser: "We offer a wide variety of charter options to fit the needs of your group!"
 permalink: "/charters/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "317089755_100659369559939_8847703109666359439_n.jpg"
 ---
 ...and learn at the same time.
 

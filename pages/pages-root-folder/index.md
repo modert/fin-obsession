@@ -8,21 +8,21 @@ layout: frontpage
 header:
   image_fullwidth: fin-obsession.jpg
 widget1:
+  title: "Charters"
+  url: '/charters/'
+  image: 20220531_093120.jpg
+  text: 'Come fish with us!'
+widget2:
   title: "Photo Gallery"
   url: '/photos/'
   image: PXL_20210804_144900938.MP.jpg
   text: 'Gallery'
-widget2:
+widget3:
   title: "About us!"
   url: '/info/'
   text: 'Meet Darrel'
   image: 20220531_091815.jpg
   # video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-widget3:
-  title: "Packages"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: 20220531_093120.jpg
-  text: 'Come fish with us!'
 #
 # Use the call for action to show a button on the frontpage
 #
