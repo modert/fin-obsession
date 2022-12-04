@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Charters"
   url: '/charters/'
-  image: 20220531_093120.jpg
+  image: 317089755_100659369559939_8847703109666359439_n.jpg
   text: 'Come fish with us!'
 widget2:
   title: "Photo Gallery"

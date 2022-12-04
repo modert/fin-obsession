@@ -29,7 +29,8 @@ header:
 
 #### Since then, fork it!
 
-[Go Home][1]
+[Go Home][2]
 
 
- [1]: http://mademistakes.com/about/
+ [1]: {{site.url}}
+ [2]: #full-day-fishing
