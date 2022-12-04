@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Charters"
 subheadline: #"Learn more about our charters!"
 teaser: "We offer a wide variety of charter options to fit the needs of your group!"
