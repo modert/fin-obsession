@@ -18,7 +18,6 @@ To get to know *Feeling Responsive* check out all the features explained in the 
 And what license is *Feeling Responsive* released under? [This one][2].
 
 
-
 ## Why use this theme?
 
 Feeling Responsive is heavily customizable.
