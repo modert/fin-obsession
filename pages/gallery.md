@@ -27,7 +27,7 @@ gallery:
       caption: Great images by Unsplash.com
     - image_url: gallery-example-8.jpg
       caption: Great images by Unsplash.com
-permalink: "/charters/"
+permalink: "/gallery/"
 header:
     image_fullwidth: "317089755_100659369559939_8847703109666359439_n.jpg"
     caption: Gallery
